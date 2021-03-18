@@ -1,2 +1,2 @@
 # Machine_learning-Projetcs
-Personal machine learning portfolio project.
+This repository contains my personal machine learning projects.
